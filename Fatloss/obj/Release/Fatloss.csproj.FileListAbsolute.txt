@@ -1,0 +1,13 @@
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\bin\Release\Fatloss.exe.config
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\bin\Release\Fatloss.exe
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\bin\Release\Fatloss.pdb
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.Food.resources
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.Main.resources
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.Properties.Resources.resources
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.Report.resources
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.Settings.resources
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.csproj.GenerateResource.cache
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.exe
+C:\Users\MyPC\source\repos\Fatloss\Fatloss\obj\Release\Fatloss.pdb
